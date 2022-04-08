@@ -1,0 +1,14 @@
+---
+title: "Open Science"
+author: "Helen Kettle"
+date: "07/04/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Front page - add links to git, FAQs etc
